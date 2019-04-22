@@ -1,0 +1,12 @@
+{
+"name": "Espiot",
+"keywords": "esp32, iot",
+"description": "ESP32 IoT Library",
+"repository":
+{
+"type": "git",
+"url": "https://github.com/bkomac/esp-iot.git"
+},
+"frameworks": "arduino",
+"platforms": "espressif"
+}
